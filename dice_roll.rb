@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-puts  [1, 2, 3, 4, 5, 6].shuffle.first
+  [1, 2, 3, 4, 5, 6].shuffle.first
 end
